@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="A.Framework">
+      <HintPath>D:\redmask\RM.Blz\A.Framework\bin\Debug\net8.0\A.Framework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
